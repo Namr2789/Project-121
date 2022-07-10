@@ -1,0 +1,48 @@
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px white;
+  text-align: center;
+  padding-top: 10px;
+}
+.heading_div {
+  float: none;
+  background: white;
+  padding: 10px;
+  border-radius: 20px;
+  color: black;
+  box-shadow: 5px 5px 5px grey;
+}
+.heading_div2 {
+  font-size: 18px;
+}
+.result_para_tag {
+  box-shadow: 5px 5px 5px grey;
+  font-size: 20px;
+    background-color: white;
+  color: purple;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 20px;
+}
+body {
+  color: black;
+}
+img {
+  width: 250px;
+  height: 165px;
+  border-radius: 20px;
+}
+.list_row {
+  background-color: gray;
+  padding: 20px;
+  color: white;
+  border-radius: 50px;
+}
+.result{
+font-weight: 600;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}  _
